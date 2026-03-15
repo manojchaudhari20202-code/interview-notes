@@ -5,9 +5,9 @@
 - [Java Programs](notes/02.%20Java%20DSA.md) ✔
 - [Java DSA](notes/03.%20Java%20Programs.md) ✔
 ---
-- [Oracle](notes/04.%20Oracle.md) 
-- [Spring](notes/05.%20Spring.md)
-- [React](notes/06.%20React.md)
+- [Oracle](notes/04.%20Oracle.md) ✔ 
+- [Spring](notes/05.%20Spring.md) ✔
+- [React](notes/06.%20React.md) ✔
 - [Kafka](notes/07.%20Kafka.md) ✔
 - [Python](notes/08.%20Python.md) ✔
 - [Spark](notes/09.%20Spark.md)
@@ -19,7 +19,7 @@
 - [Arcitura Cloud](notes/92.%20Arcitura%20Cloud.md) ✔
 - [Arcitura Microservices](notes/93.%20Arcitura%20Microservices.md) ✔
 - [Arcitura Patterns](notes/94.%20Arcitura%20Patterns.md) ✔
-- [Arcitura DevOps](notes/96.%20Arcitura%20DevOps.md) 
+- [Arcitura DevOps](notes/96.%20Arcitura%20DevOps.md) ✔
 - [Arcitura SOA](notes/95.%20Arcitura%20SOA.md) ✔
 ---
 - [Javascript](notes/javascript.md)
@@ -51,6 +51,14 @@
 - [Big Data Excellence](notes/dataManagement.md)
 - [Cloud Excellence](notes/cloudExcellence.md)
 - [Testing Excellence](notes/dataManagement.md)
+
+
+*** Senior Developer preparing for senior position interview role
+*** Detailed Notes for each topic and subtopic 
+*** Atleast 5 bullet points for each topic and subtopic***
+*** No Deviation from topics list
+
+
 ---
 
 -->
