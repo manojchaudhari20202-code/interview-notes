@@ -1,0 +1,56 @@
+### Interview Notes
+
+---
+- [Java](notes/java.md) ✔
+- [Java Programs](notes/javaPrograms.md) ✔
+- [Java DSA](notes/javaDSA.md) ✔
+---
+- [Oracle](notes/oracle.md) 
+- [Spring](notes/spring.md)
+- [React](notes/react.md)
+- [Kafka](notes/kafka.md) ✔
+- [Python](notes/python.md) ✔
+- [Spark](notes/spark.md)
+---
+- [Principles](notes/principlesAssorted.md) ✔
+- [Patterns](notes/patterns.md)
+---
+- [Arcitura Patterns](notes/arcituraPatterns.md) ✔
+- [Arcitura DevOps](notes/arcituraDevOps.md) 
+- [Arcitura SOA](notes/arcituraSOA.md) ✔
+- [Arcitura BigData](notes/arcituraBigData.md) ✔
+- [Arcitura Cloud](notes/arcituraCloud.md) ✔
+- [Arcitura Microservices](notes/arcituraMicroservices.md) ✔
+---
+- [Javascript](notes/javascript.md)
+- [Typescript](notes/typescript.md)
+- [Cloud](notes/javascript.md)
+- [Cloud](notes/javascript.md)
+- [AWS](notes/javascript.md)
+- [Azure](notes/javascript.md)
+- [GCP](notes/javascript.md)
+- [Patterns Assorted](notes/patternsAssorted.md) ✔
+- [Microservices](notes/microservices.md) ✔
+- [Data Management](notes/dataManagement.md) ✔
+- [System Design](notes/dataManagement.md)
+---
+<!--
+
+- [Engineering Excellence](notes/dataManagement.md)
+- [Product Excellence](notes/dataManagement.md)
+- [Process Excellence](notes/dataManagement.md)
+- [Leadership and Strategic Excellence](notes/dataManagement.md)
+- [Business Excellence](notes/dataManagement.md)
+- [Design Excellence](notes/dataManagement.md)
+- [Execution Excellence](notes/dataManagement.md)
+- [Delivery Excellence](notes/dataManagement.md)
+- [Personal Excellence](notes/dataManagement.md)
+- [Operational Excellence](notes/dataManagement.md)
+- [Architectural Excellence](notes/dataManagement.md)
+- [Data Management Excellence](notes/dataManagement.md)
+- [Big Data Excellence](notes/dataManagement.md)
+- [Cloud Excellence](notes/cloudExcellence.md)
+- [Testing Excellence](notes/dataManagement.md)
+---
+
+-->
