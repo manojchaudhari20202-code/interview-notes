@@ -1,16 +1,16 @@
 ### Interview Notes
 
 ---
-- [Java](notes/1. Java.md) ✔
-- [Java Programs](notes/2. Java DSA.md) ✔
-- [Java DSA](notes/3. Java Programs.md) ✔
+- [Java](notes/01. Java.md) ✔
+- [Java Programs](notes/02. Java DSA.md) ✔
+- [Java DSA](notes/03. Java Programs.md) ✔
 ---
-- [Oracle](notes/4. Oracle.md) 
-- [Spring](notes/5. Spring.md)
-- [React](notes/6. React.md)
-- [Kafka](notes/7. Kafka.md) ✔
-- [Python](notes/8. Python.md) ✔
-- [Spark](notes/9. Spark.md)
+- [Oracle](notes/04. Oracle.md) 
+- [Spring](notes/05. Spring.md)
+- [React](notes/06. React.md)
+- [Kafka](notes/07. Kafka.md) ✔
+- [Python](notes/08. Python.md) ✔
+- [Spark](notes/09. Spark.md)
 ---
 - [Principles](notes/10. Principles.md) ✔
 - [Patterns](notes/11. Patterns.md)
