@@ -1,7 +1,7 @@
 ### Interview Notes
 
 ---
-- [Java]('notes/01. Java.md') ✔
+- [Java](notes/01.%20Java.md) ✔
 - [Java Programs](notes/02. Java DSA.md) ✔
 - [Java DSA](notes/03. Java Programs.md) ✔
 ---
