@@ -1,9 +1,9 @@
 ### Interview Notes
 
 ---
-- [Java](notes/java.md) ✔
-- [Java Programs](notes/javaPrograms.md) ✔
-- [Java DSA](notes/javaDSA.md) ✔
+- [Java](notes/1. Java.md) ✔
+- [Java Programs](notes/2. Java DSA.md) ✔
+- [Java DSA](notes/3. Java Programs.md) ✔
 ---
 - [Oracle](notes/oracle.md) 
 - [Spring](notes/spring.md)
