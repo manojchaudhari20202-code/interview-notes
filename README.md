@@ -5,15 +5,15 @@
 - [Java Programs](notes/2. Java DSA.md) ✔
 - [Java DSA](notes/3. Java Programs.md) ✔
 ---
-- [Oracle](notes/oracle.md) 
-- [Spring](notes/spring.md)
-- [React](notes/react.md)
-- [Kafka](notes/kafka.md) ✔
-- [Python](notes/python.md) ✔
-- [Spark](notes/spark.md)
+- [Oracle](notes/4. Oracle.md) 
+- [Spring](notes/5. Spring.md)
+- [React](notes/6. React.md)
+- [Kafka](notes/7. Kafka.md) ✔
+- [Python](notes/8. Python.md) ✔
+- [Spark](notes/9. Spark.md)
 ---
-- [Principles](notes/principlesAssorted.md) ✔
-- [Patterns](notes/patterns.md)
+- [Principles](notes/10. Principles.md) ✔
+- [Patterns](notes/11. Patterns.md)
 ---
 - [Arcitura Patterns](notes/arcituraPatterns.md) ✔
 - [Arcitura DevOps](notes/arcituraDevOps.md) 
