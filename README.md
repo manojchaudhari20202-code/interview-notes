@@ -15,12 +15,12 @@
 - [Principles](notes/10.%20Principles.md) ✔
 - [Patterns](notes/11.%20Patterns.md)
 ---
-- [Arcitura Patterns](notes/arcituraPatterns.md) ✔
-- [Arcitura DevOps](notes/arcituraDevOps.md) 
-- [Arcitura SOA](notes/arcituraSOA.md) ✔
-- [Arcitura BigData](notes/arcituraBigData.md) ✔
-- [Arcitura Cloud](notes/arcituraCloud.md) ✔
-- [Arcitura Microservices](notes/arcituraMicroservices.md) ✔
+- [Arcitura BigData](notes/91.%20Arcitura%20BigData.md) ✔
+- [Arcitura Cloud](notes/92.%20Arcitura%20Cloud.md) ✔
+- [Arcitura Microservices](notes/93.%20Arcitura%20Microservices.md) ✔
+- [Arcitura Patterns](notes/94.%20Arcitura%20Patterns.md) ✔
+- [Arcitura DevOps](notes/96.%20Arcitura%20DevOps.md) 
+- [Arcitura SOA](notes/95.%20Arcitura%20SOA.md) ✔
 ---
 - [Javascript](notes/javascript.md)
 - [Typescript](notes/typescript.md)
