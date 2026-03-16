@@ -1,3 +1,9 @@
+
+- Java
+- Python
+- React
+- Oracle
+
 <!--
 ### Interview Notes
 
